@@ -21,4 +21,4 @@ Raylib and C++
 
 Make sure raylib is installed, and just open the given file that's it. 
 
-Video: [ConweysGameOfLife](https://www.linkedin.com/feed/update/urn:li:activity:7410948426101665792/)
+Video: [ConweysGameOfLife]([https://www.linkedin.com/feed/update/urn:li:activity:7410948426101665792/](https://lnkd.in/p/dQ_hzQ8K))
